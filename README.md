@@ -1,4 +1,4 @@
-# Hi 👋 , I'm Naim !
+# Hi, I'm Naim !
 
 **Role:** Software Engineer  
 **Company:** Cardtrend Systems    
